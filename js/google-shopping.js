@@ -1,3 +1,3 @@
 // Write your solutions below
 
-console.log(products);
+console.log(products.items);
